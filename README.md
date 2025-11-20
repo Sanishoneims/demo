@@ -13,7 +13,6 @@ This is a short how-to for setting up two SSH keys…
 # sample code block
 ssh-keygen -t ed25519 -C "personal@example.com"
 
-Save and preview with `bundle exec jekyll serve`.
 
 ### 4) Push to GitHub & enable Pages
 ```bash
